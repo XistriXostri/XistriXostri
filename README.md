@@ -1,20 +1,5 @@
 ### Hi there, I'm Cristian 👋
 
-<!--
-**XistriXostri/XistriXostri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am a Front End Developer from Spain.
 
 <p>I just finished the Front End Developer studies at Skylab Coders Academy (ISDI Coders), the best bootcamp in the world in 2021 (according to SwitchUp).</p>
@@ -53,10 +38,23 @@ I am a Front End Developer from Spain.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 
-<h2> Others </h2>
+<h2> Libraries </h2>
 
-<!-- Git -->
+<!-- Flux -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/flux.svg" align="center" width="40" height="40" />
+</a>
+
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" height="40" />
+</a>
+
+
+<h2> Others </h2>
+<p align="left">
+<!-- Git -->
+<a href="https://facebook.github.io/flux/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
@@ -65,7 +63,11 @@ I am a Front End Developer from Spain.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" />
 </a>
 
-
+<!-- Jest -->
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="40" height="40" />
+</a>
+</p>
 
 
 
